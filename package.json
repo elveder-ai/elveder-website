@@ -1,0 +1,12 @@
+{
+  "name": "elveder-website",
+  "version": "1.0.0",
+  "description": "Elveder website",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve site"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
