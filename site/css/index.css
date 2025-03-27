@@ -1,0 +1,18 @@
+.business-details {
+	position: absolute;
+	top: 8px;
+	right: 16px;
+	color: #000000 !important;
+	text-decoration: underline;
+}
+
+.text-container {
+	display: none;
+    margin-top: 35%;
+}
+
+@media (min-width: 500px) { 
+	.text-container {
+		margin-top: 17%;
+	}
+}
